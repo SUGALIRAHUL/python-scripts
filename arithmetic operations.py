@@ -1,0 +1,6 @@
+num1=int(input("enter first number: "))
+num2=int(input("enter second number: "))
+print("the sum of two numbers",num1,"and",num2,"is",(num1+num2))
+print("the difference of two numbers",num1,"and",num2,"is",(num1-num2))
+print("the product of two numbers",num1,"and",num2,"is",(num1*num2))
+print("the division of two numbers",num1,"and",num2,"is",(num1/num2))
